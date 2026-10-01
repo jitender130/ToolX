@@ -1,0 +1,1 @@
+# Disable Jekyll processing on GitHub Pages so Vite static assets and underscore files are served directly
