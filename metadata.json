@@ -1,0 +1,8 @@
+{
+  "name": "ToolX - Free Online Tools Platform",
+  "description": "All your tools in one place. Fast, free, browser-based online tools for PDF, image editing, calculators, text formatting, and developer utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

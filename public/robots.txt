@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jitender130.github.io/TOOL-X/sitemap.xml
+Sitemap: https://toolx.online/sitemap.xml
